@@ -8,9 +8,9 @@ function App() {
       <Topbar />
       <div className="container">
         <Sidebar/>
-        <div className="other">
+        {/* <div className="other">
           other pages
-        </div>
+        </div> */}
       </div>
     </div>
   );
